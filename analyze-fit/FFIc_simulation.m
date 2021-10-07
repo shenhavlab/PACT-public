@@ -1,4 +1,10 @@
-%% FFIc simulation
+%% === FFIc simulation  ===
+%
+% run script from `analyze-fit` folder
+%
+%
+% Harrison Ritz - Oct 2021
+
 
 
 
